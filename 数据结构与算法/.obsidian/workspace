@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "b3d3dc87b6fb64cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5108ee071d61981",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "图/图.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00dcd1f7cb8dc0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f300ef2a45718f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "386ffb7ab906f3cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "258f24353e84b926",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "回路",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4ae4b861126bbf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "54cb3a93883bc8d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "846187e9751da7d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "图/图.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "图/图.md",
+    "图/拓扑排序.md",
+    "图/最小生成树问题.md",
+    "线性结构/堆栈.md",
+    "排序/表排序.md"
+  ]
+}

@@ -1,0 +1,2 @@
+- Shebang符号  ''#！''
+- ``#！解释器完整路径（/usr/bin/python3.8)
